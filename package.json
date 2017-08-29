@@ -1,0 +1,24 @@
+{
+  "name": "html-scratch",
+  "version": "0.1.0",
+  "authors": [
+    "Dai Le <ledaicntt@gmail.com>"
+  ],
+  "description": "HTML",
+  "license": "MIT",
+  "repository": {},
+  "devDependencies": {
+    "bs-html-injector": "^3.0.1",
+    "grunt": "^1.0.1",
+    "grunt-browser-sync": "^2.1.3",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-cssmin": "^2.0.0",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-uglify": "^2.3.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-includes": "^1.0.0",
+    "gulp": "^3.9.1",
+    "load-grunt-tasks": "^3.5.2",
+    "time-grunt": "^1.2.1"
+  }
+}

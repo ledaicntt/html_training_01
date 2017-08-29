@@ -1,0 +1,51 @@
+html {
+  font-size: $app-base-font-size;
+}
+
+.error {
+  color: red;
+}
+
+.pagination {
+  margin: 0;
+}
+
+a {
+  &:hover,
+  &:focus,
+  &:active,
+  &:visited {
+    text-decoration: none;
+  }
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.form-group {
+  textarea.form-control {
+    max-width: 100%;
+  }
+}
+
+.fa-left {
+  margin-right: .5rem;
+}
+
+.fa-right {
+  margin-left: .5rem;
+}
+
+.btn.btn-left{
+  margin-right: 1rem;
+}
+.btn.btn-right{
+  margin-left: 1rem;
+}
+
+.label-info {
+  background-color: #70b7ba;
+}
